@@ -1,0 +1,1 @@
+type Page = "None" | "Title" | "SexGame" | "Result"
